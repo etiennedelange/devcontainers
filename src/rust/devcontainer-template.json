@@ -1,0 +1,16 @@
+{
+  "id": "rust",
+  "version": "1.0.0",
+  "name": "Rust",
+  "description": "A minimal Rust development environment with Cargo and GitHub CLI.",
+  "documentationURL": "https://github.com/etiennedelange/devcontainers/tree/main/src/rust",
+  "licenseURL": "https://github.com/etiennedelange/devcontainers/blob/main/LICENSE",
+  "platforms": [
+    "Rust"
+  ],
+  "keywords": [
+    "rust",
+    "cargo",
+    "development"
+  ]
+}
