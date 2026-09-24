@@ -1,10 +1,10 @@
-# Etienne's Dev Container Templates
+# Dev Container Templates
 
-Personal Dev Container Templates for my development environments.
+A collection of reusable Dev Container templates.
 
 ## Available templates
 
-### Personal Node.js + AI
+### Node.js + AI
 
 A Node.js 24 / TypeScript environment with:
 
@@ -16,7 +16,21 @@ A Node.js 24 / TypeScript environment with:
 Template ID:
 
 ```
-ghcr.io/etiennedelange/devcontainers/personal-node-ai:latest
+ghcr.io/etiennedelange/devcontainers/node-ai:latest
+```
+
+### Rust
+
+A minimal Rust development environment with:
+
+- Rust toolchain
+- Cargo
+- GitHub CLI
+
+Template ID:
+
+```
+ghcr.io/etiennedelange/devcontainers/rust:latest
 ```
 
 ## Local development
