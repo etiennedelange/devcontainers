@@ -1,0 +1,20 @@
+{
+  "id": "node-ai",
+  "version": "1.0.0",
+  "name": "Node.js + AI",
+  "description": "A Node.js and TypeScript development environment with GitHub CLI and Claude Code.",
+  "documentationURL": "https://github.com/etiennedelange/devcontainers/tree/main/src/node-ai",
+  "licenseURL": "https://github.com/etiennedelange/devcontainers/blob/main/LICENSE",
+  "platforms": [
+    "Node.js",
+    "TypeScript"
+  ],
+  "keywords": [
+    "node",
+    "typescript",
+    "claude",
+    "github",
+    "ai",
+    "development"
+  ]
+}
